@@ -1,4 +1,4 @@
-import request
+import requests
 import sys
 import os
 
